@@ -18,7 +18,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/DelishDiary.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/Recipe-App.git
 
 # Go to the project directory
 cd DelishDiary
