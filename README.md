@@ -21,16 +21,14 @@ Follow these steps to set up the project locally:
 git clone https://github.com/YOUR_GITHUB_USERNAME/Recipe-App.git
 
 # Go to the project directory
-cd DelishDiary
+cd Recipe-App
 
 # Install dependencies
-cd frontend
 npm install
 cd ../backend
 npm install
 
 # Start the frontend
-cd frontend
 npm start
 
 # Start the backend
